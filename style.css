@@ -1,0 +1,9 @@
+div{
+    border: solid rgb(255, 255, 255) 2px;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 25% 25% 0px 25%;
+    text-align: center;
+    box-shadow: 10px 5px 15px rgb(62, 62, 62);
+
+}
